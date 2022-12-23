@@ -26,7 +26,7 @@ If you want to run this project you need to do following steps:
 2. Run the juypyter notebook *Transfermarket.ipynb*. You can run it in wathever environment you like in which you can run a jupyter notebook. If you don't already have an environment to run the juypter notebook, I'll explain how you can install one under *Installation*
 3. To best understand the code, you shoul run it cell by cell. I provide all the information you need to understand what the code does and you need to run it in the jupyter notebook. You can also run the whole notebook at once.
 
-*Please note that, due to the webscraping, running the code takes some time. There are three cell where I use webscraping. At these three cells you need to wait some minutes. If you run the whole script at once, the runtime should be around **30 minutes**.*
+*Please note that, due to the webscraping, running the code takes some time (you need to scrape through around 1'000 web pages). There are three cell where I use webscraping. At these three cells, you need to wait some minutes. If you run the whole script at once, the runtime should be around **30 minutes**.*
 
 ## Installation
 
