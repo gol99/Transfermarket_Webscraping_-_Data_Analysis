@@ -22,7 +22,7 @@ The programming language used in this proect is **Python**. The code was written
 ## How to run
 If you want to run this project you need to do following steps:
 1. Donwload the project from github as a zip file and open it on your own device. Make sure that all files are in the **same** directory/folder. After opening the zip file you should have a folder that looks like this:
-![](Images/Unbenannt.PNG)
+![](Images/Depository.png)
 2. Run the juypyter notebook *Transfermarket.ipynb*. You can run it in wathever environment you like in which you can run a jupyter notebook. If you don't already have an environment to run the juypter notebook, I'll explain how you can install one under *Installation*
 3. To best understand the code, you shoul run it cell by cell. I provide all the information you need to understand what the code does and you need to run it in the jupyter notebook. You can also run the whole notebook at once.
 
